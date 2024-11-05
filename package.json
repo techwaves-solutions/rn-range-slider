@@ -1,7 +1,7 @@
 {
-  "name": "rn-range-slider",
-  "version": "2.2.2",
-  "author": "Tigran Sahakyan <mail.of.tigran@gmail.com>",
+  "name": "tw-rn-range-slider",
+  "version": "0.1.0",
+  "author": "Milos Durdevic",
   "description": "A highly optimized pure JS implementation of Range Slider for React Native",
   "homepage": "https://github.com/githuboftigran/rn-range-slider",
   "main": "index.tsx",
@@ -23,7 +23,7 @@
   ],
   "repository" : {
     "type": "git",
-    "url": "https://github.com/githuboftigran/rn-range-slider.git"
+    "url": "https://github.com/techwaves-solutions/rn-range-slider.git"
   },
   "dependencies": {
   },
